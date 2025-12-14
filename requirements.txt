@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+supabase
+cloudinary
+openai
+replicate
+python-multipart
+requests
