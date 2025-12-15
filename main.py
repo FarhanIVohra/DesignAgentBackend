@@ -22,7 +22,8 @@ app.add_middleware(
     allow_origins=[
         "http://localhost:5173",
         "http://127.0.0.1:5173",
-        "https://design-agent-frontend-a430o4csb-farhanivohras-projects.vercel.app",
+        "design-agent-frontend.vercel.app"
+        "https://design-agent-frontend-2s0akhh8n-farhanivohras-projects.vercel.app",
     ],
     allow_credentials=True,
     allow_methods=["*"],
