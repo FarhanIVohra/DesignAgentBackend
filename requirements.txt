@@ -7,4 +7,4 @@ openai
 replicate
 python-multipart
 requests
-sqlalchemy
+sqlalchemy==1.4.49
